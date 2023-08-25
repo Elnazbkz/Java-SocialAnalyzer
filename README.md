@@ -6,6 +6,7 @@ The Social Media Analyzer App allows you to manage and analyze social media post
 
 1. Ensure you have Java JDK installed.
 2. Clone or download the repository.
+<code>gh repo clone Elnazbkz/Java-SocialAnalyzer</code>
 3. Navigate to the project directory.
 4. Compile using: `javac SocialMediaAnalyzer/*.java`
 5. Run using: `java SocialMediaAnalyzer.UserInterface`
